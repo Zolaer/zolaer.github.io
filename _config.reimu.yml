@@ -6,16 +6,16 @@ theme_config_check: true
 # main menu navigation
 # for more icon information, please visit https://github.com/D-Sketon/hexo-theme-reimu/issues/30
 menu:
-  - name: home
+  - name: 首页
     url: /
     icon: # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
-  - name: archives
+  - name: 归档
     url: /archives
     icon:
-  - name: about
+  - name: 关于
     url: /about
     icon:
-  - name: friend
+  - name: 友链
     url: /friend
     icon:
 
